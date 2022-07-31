@@ -1,0 +1,30 @@
+2022-Jul-31-11:12:28,ETL Job Started
+2022-Jul-31-11:12:28,Extract Phase Started
+2022-Jul-31-11:13:05,ETL Job Started
+2022-Jul-31-11:13:05,Extract Phase Started
+2022-Jul-31-11:13:06,Extract Phase Ended
+2022-Jul-31-11:13:26,ETL Job Started
+2022-Jul-31-11:13:26,Extract Phase Started
+2022-Jul-31-11:13:27,Extract Phase Ended
+2022-Jul-31-11:19:28,ETL Job Started
+2022-Jul-31-11:19:28,Extract Phase Started
+2022-Jul-31-11:19:29,Extract Phase Ended
+2022-Jul-31-11:19:29,Transform Phase Started
+2022-Jul-31-11:19:29,Transform Phase Ended
+2022-Jul-31-11:19:29,Load Phase Started
+2022-Jul-31-11:19:29,Load Phase Ended
+2022-Jul-31-11:19:29,ETL Job Ended
+2022-Jul-31-11:19:29,
+*********************************************************
+
+2022-Jul-31-11:20:13,ETL Job Started
+2022-Jul-31-11:20:13,Extract Phase Started
+2022-Jul-31-11:20:14,Extract Phase Ended
+2022-Jul-31-11:20:14,Transform Phase Started
+2022-Jul-31-11:20:14,Transform Phase Ended
+2022-Jul-31-11:20:14,Load Phase Started
+2022-Jul-31-11:20:14,Load Phase Ended
+2022-Jul-31-11:20:14,ETL Job Ended
+2022-Jul-31-11:20:14,
+*********************************************************
+
